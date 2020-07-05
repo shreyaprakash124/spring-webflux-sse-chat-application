@@ -13,7 +13,7 @@ import io.swagger.annotations.Api;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 
-@Api(tags = "Notification")
+@Api(tags = "Message")
 @RestController
 public class ChatController implements ChatApi {
 
