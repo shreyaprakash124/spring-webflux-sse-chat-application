@@ -54,7 +54,7 @@ https://chat-application-webflux-sse.herokuapp.com/?channelId=channelId
 ```
 
 </br>
-Click on try out for /notifications for a POST call.
+Click on try out for /messages for a POST call.
 Use the below sample Json for creating the request.
 
 ```
