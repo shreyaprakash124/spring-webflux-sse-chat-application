@@ -22,7 +22,7 @@ The **events** are just a stream of UTF-8 encoded text data that follow the form
 This application is designed to provide the user with a real-time one an one chat platform .
 The idea is to take advantage of the Reactive Stream Specification to build a non-blocking reactive chat application. 
 In this case, I've achieved a non-blocking operation using Spring's web-flux framework and implemented Server-Sent-Events(SSE) in java spring.
-For the desired result I established a stream connection based on the channel Id the purpose of the channel Id is to create a chat group in which one or more user can send/receive messages.
+For the desired result I established a stream connection based on the channel Id, the purpose of the channel Id is to create a chat group in which one or more user can send/receive messages.
 
 ## Screenshots
 <img align="left" src="https://i.ibb.co/YhnKnGN/converstaion.png">
