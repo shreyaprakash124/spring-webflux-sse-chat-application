@@ -1,0 +1,11 @@
+#title {
+	margin: 40px 0;
+	width: 100%;
+	padding: 12px;
+	background-color: black;
+	color: white;
+}
+
+#notifications {
+	margin: -40px 0;
+}
