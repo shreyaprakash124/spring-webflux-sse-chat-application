@@ -30,13 +30,13 @@ For the desired result I established a stream connection based on the channel Id
 <img align="center" width="1000px" src="https://i.ibb.co/5YdK3hk/swagger-Image.png">
 
 ## Topics
-- Spring 5
 - Spring web flux 
 - SSE
 - Swagger
 - Thymeleaf
 - HTML,CSS,JS 
 - PostgreSql
+- Heroku
 
 ## Demo
 
